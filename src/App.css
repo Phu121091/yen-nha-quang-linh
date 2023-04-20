@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Faustina:wght@300;400;500;600;700&family=Montserrat:wght@100;200;300;400;500;600;800&display=swap');
+
+*{
+  font-family: 'Faustina', serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-color: #fbf9f8;
+}
+.main{
+  width: 1300px;
+  margin: 0 auto;
+}
